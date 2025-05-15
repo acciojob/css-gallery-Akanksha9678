@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.card{
+.cards{
 	display:flex;
 	flex-wrap:wrap;
 	align-items:flex-end;
